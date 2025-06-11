@@ -1,0 +1,8 @@
+streamlit
+opencv-python-headless
+pytesseract
+Pillow
+streamlit-drawable-canvas
+easyocr
+google-cloud-vision
+certifi>=2023.5.7
